@@ -90,12 +90,11 @@ User: quit
 
 ## Requisitos
 
-colorama==0.4.6
-keras==3.4.1
-numpy==1.26.4
-scikit-learn==1.5.1
-tensorflow==2.17.0
-
+colorama==0.4.6 
+keras==3.4.1 
+numpy==1.26.4 
+scikit-learn==1.5.1 
+tensorflow==2.17.0 
 
 
 ## Licença
