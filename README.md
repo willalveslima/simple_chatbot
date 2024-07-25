@@ -43,7 +43,7 @@ Referência: Artigo  [How To Build Your Own Chatbot Using Deep Learning](https:/
 
 O script `treino_do_modelo.py` permite realizar o treinamento do modelo com dados dos tokens.
 
-1. Prepare seu arquivo de dados de treino no formato JSONL e salve-o como `intents.jsonl`.
+1. Prepare seu arquivo de dados de treino no formato JSON e salve-o como `intents.jsonl`.
 
 2. Execute o script:
     ```sh
