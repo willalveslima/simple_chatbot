@@ -30,10 +30,9 @@ Referência: Artigo  [How To Build Your Own Chatbot Using Deep Learning](https:/
 
 3. Instale as dependências:
     ```sh
-    pip install openai
+    pip install -r requirements.txt
+    
     ```
-
-4. Adicione sua chave de API do OpenAI no arquivo `chave_api.txt`.
 
 ## Uso
 
